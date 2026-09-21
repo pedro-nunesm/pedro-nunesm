@@ -26,7 +26,7 @@ I am a **Data Engineer** with over 3 years of experience across data roles, work
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🏆 IT Certifications
+### 🏆 Certifications
 
 <table>
   <tr>
