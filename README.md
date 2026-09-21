@@ -35,6 +35,13 @@ I am a **Data Engineer** with over 3 years of experience across data roles, work
         <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144392202" width="200">
       </a>
     </td>
+
+<td align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/PEDROMAIA-1854/8571B587FE4569C7?sharingId=BC2BBA3F55701DB9">
+    <img src="./assets/microsoft-fabric-data-engineer-associate-badge.png" width="200">
+  </a>
+</td>
+
   </tr>
 </table>
 
