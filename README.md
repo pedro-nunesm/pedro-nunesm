@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Nunes! 👋
+# Hi there, I'm Pedro Maia! 👋
 
 ### 👨‍💻 About Me
 I am a **Data Engineer** with over 2 years of experience across data roles, working on end-to-end data solutions that support analytics, automation, and data-driven decision-making.
