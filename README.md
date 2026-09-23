@@ -1,7 +1,7 @@
 # Hi there, I'm Pedro Nunes! 👋
 
 ### 👨‍💻 About Me
-I am a **Data Engineer** with over 3 years of experience across data roles, working on end-to-end data solutions that support analytics, automation, and data-driven decision-making.
+I am a **Data Engineer** with over 2 years of experience across data roles, working on end-to-end data solutions that support analytics, automation, and data-driven decision-making.
 
 - 🚀 Focused on building scalable data pipelines, modern data platforms, and AI-driven solutions.
 - 🏢 Experienced in large-scale projects across petrochemicals, financial services, and energy sectors in Brazil.
