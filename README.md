@@ -1,12 +1,12 @@
 # Hi there, I'm Pedro Maia! 👋
 
 ### 👨‍💻 About Me
-I am a **Data Engineer** with over 2 years of experience across data roles, working on end-to-end data solutions that support analytics, automation, and data-driven decision-making.
+I am a final-year engineering student with over 2 years of internship experience across data roles, working on end-to-end data solutions that support analytics, automation, and data-driven decision-making.
 
 - 🚀 Focused on building scalable data pipelines, modern data platforms, and AI-driven solutions.
 - 🏢 Experienced in large-scale projects across petrochemicals, financial services, and energy sectors in Brazil.
 - ☁️ Experienced with Cloud environments, DataOps, Data Governance, and Data Quality.
-- 🌍 I speak fluently **Portuguese, English, and French**.
+- 🌍 I speak fluently **English, French, and Portuguese**.
 - 🎓 Currently pursuing a double degree in **Industrial Engineering** at the Federal University of Ceará (Brazil) and INSA Hauts-de-France (France).
 - 🤝 Always open to collaborating on complex problems where data engineering, analytics, and AI intersect.
 
